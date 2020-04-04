@@ -1,0 +1,26 @@
+.back{
+    background-color: salmon;
+}
+
+.card{
+    background-image: url('../../img/veterinaria.jpg');
+}
+
+.form-control{
+    border-bottom: 2px solid rgb(240, 139, 139);
+}
+
+
+#btnform{
+    background-color: #e68473;
+    color: black;
+    border-bottom: 0;
+    
+}
+
+#btnform:hover{
+    background-color: #f55e5e;
+}
+ .card-body {
+    background-image: url('../../img/veterinaria.jpg');
+ }
